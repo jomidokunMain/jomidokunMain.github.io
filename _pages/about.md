@@ -160,7 +160,7 @@ Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu, Yebin Liu<br>
 <td style="padding:10px;width:25%;vertical-align:middle;border:none" align="center">2022
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
-<b>Double Tabs Achievements 1</br>
+Double Tabs Achievements 1
 </td>
 </tr>
 <tr>
@@ -176,3 +176,4 @@ Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu, Yebin Liu<br>
 </td>
 </tr>
 </table>
+</div>

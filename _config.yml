@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: "en-US"
-title: "Jesudara Omidokun(Dara)'s / Site Title"
+title: "Jesudara Omidokun(Dara)'s Homepage"
 title_separator: "-"
 name: &name "Jesudara Omidokun (Dara)'s"
 description: &description "personal description"
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name: "Jesudara Omidokun(Dara)"
-  avatar: "profile.png"
+  avatar: "JO.jpeg"
   bio: "Ph.D. student at University of Michigan-Dearborn"
   location: "Dearborn, USA"
   employer:

@@ -176,7 +176,6 @@ Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu, Yebin Liu<br>
 </td>
 </tr>
 </table>
-</div>
 
 ## OTHERS
 

@@ -47,25 +47,6 @@ Bachelor of Science in Engineering. Sep. 2015 - Jun. 2019<br>
 <a href="https://wwwcp.umes.edu/">University of Maryland Eastern Shore</a><br>
 </td>
 </tr>
-
----
-
-<div>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
-<tr>
-<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
-<img width="350" src="../images/sig23_posevocab.jpg"/>
-</td>
-<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
-<b>PoseVocab: Learning Joint-structured Pose Embeddings for Human Avatar Modeling</b><br>
-<b>Zhe Li</b>, Zerong Zheng, Yuxiao Liu, Boyao Zhou, Yebin Liu<br>
-<i><b>SIGGRAPH</b> Conference Proceedings, 2023</i><br>
-<a href="https://lizhe00.github.io/projects/posevocab/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
-<a href="https://arxiv.org/pdf/2304.13006.pdf"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
-<a href="https://youtu.be/L-kg74A6yNc"><i class="fas fa-fw fa-video"></i>Video</a> /
-<a href="https://github.com/lizhe00/PoseVocab"><i class="fab fa-fw fa-github fa-github"></i>Code</a>
-</td>
-</tr>
 </table>
 </div>
 
@@ -173,9 +154,50 @@ Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu, Yebin Liu<br>
 
 ## Award
 
-- Tsinghua Kuaishou Scholarship, Tsinghua University, 2023
-- Tsinghua Alumni Li Yanda Scholarship, Tsinghua University, 2022
-- `<b>`National Scholarship `</b>`, Ministry of Education of China, 2021
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">2022
+</td>
+<td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
+<b>Double Tabs Achievements 1</br>
+</td>
+</tr>
+<tr>
+<td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
+2023
+</td>
+<td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
+<b>Double Tabs Achievements 2</b>
+<a href="https://umdearborn.edu/cecs"><b></b></a><br>
+<a href="#"><b>Double Tabs Achievements 3</b></a><br> 
+<a href="#"><b>Double Tabs Achievements 3</b></a><br> 
+<a href="#"><b>Double Tabs Achievements 3</b></a><br>  
+</td>
+</tr>
+</table>
+</div>
+
+## OTHERS
+
+<div class="col-md-2">
+<h5>Skills</h5>
+</div>
+<div class="col-md-10">
+<ul style="line-height: 2rem">
+<li>C++ (OpenCV, OpenGL, CUDA, Eigen, PCL, Qt, ...)</li>
+<li>Python (Tensorflow/PyTorch)</li>
+<li>Matlab, C#</li>
+<li>LaTex</li>
+</ul>
+<h5>Languages</h5>
+</div>
+<div class="col-md-10">
+<ul style="line-height: 2rem">
+<li>Chinese (native)</li>
+<li>English (TOEFL: 104; GRE: 148+168+4.0)</li>
+</ul>
+</div>
 
 ## Contact
 

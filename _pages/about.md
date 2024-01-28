@@ -176,31 +176,3 @@ Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu, Yebin Liu<br>
 </td>
 </tr>
 </table>
-
-## OTHERS
-
-<div class="col-md-2">
-<h5>Skills</h5>
-</div>
-<div class="col-md-10">
-<ul style="line-height: 2rem">
-<li>C++ (OpenCV, OpenGL, CUDA, Eigen, PCL, Qt, ...)</li>
-<li>Python (Tensorflow/PyTorch)</li>
-<li>Matlab, C#</li>
-<li>LaTex</li>
-</ul>
-<h5>Languages</h5>
-</div>
-<div class="col-md-10">
-<ul style="line-height: 2rem">
-<li>Chinese (native)</li>
-<li>English (TOEFL: 104; GRE: 148+168+4.0)</li>
-</ul>
-</div>
-
-## Contact
-
-<div class="col-md-2">
-Email: jomidoku@umich.edu<br>
-Phone: 313
-</div>

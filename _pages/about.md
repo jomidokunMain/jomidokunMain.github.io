@@ -157,7 +157,7 @@ Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu, Yebin Liu<br>
 <div>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
-<td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">2022
+<td style="padding:10px;width:25%;vertical-align:middle;border:none" align="center">2022
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 <b>Double Tabs Achievements 1</br>
@@ -201,4 +201,7 @@ Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu, Yebin Liu<br>
 
 ## Contact
 
-E-mail: jomidoku@umich.edu `<br>`
+<div class="col-md-2">
+Email: jomidoku@umich.edu<br>
+Phone: 313
+</div>

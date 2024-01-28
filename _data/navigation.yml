@@ -1,10 +1,16 @@
 # main links links
 main:
   - title: "Bio"
-    url: "https://lizhe00.github.io/#background"
+    url: "https://jomidokunmain.github.io/#background"
 
   - title: "Research"
-    url: "https://lizhe00.github.io/#research"
+    url: "https://jomidokunmain.github.io/#research"
+
+  - title: "Experience"
+    url: "https://jomidokunmain.github.io/#experience"
+
+  - title: "Projects"
+    url: "https://jomidokunmain.github.io/#projects"
 
   - title: "Contact"
-    url: "https://lizhe00.github.io/#contact"
+    url: "https://jomidokunmain.github.io/#contact"

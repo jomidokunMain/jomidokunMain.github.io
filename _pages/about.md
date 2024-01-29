@@ -160,7 +160,7 @@ Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu, Yebin Liu<br>
 <td style="padding:10px;width:25%;vertical-align:middle;border:none" align="center">2022
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
-Double Tabs Achievements 1
+<b>Double Tabs Achievements 1</b>
 </td>
 </tr>
 <tr>
@@ -168,12 +168,43 @@ Double Tabs Achievements 1
 2023
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
-<b>Double Tabs Achievements 2</b>
-<a href="https://umdearborn.edu/cecs"><b></b></a><br>
-<a href="#"><b>Double Tabs Achievements 3</b></a><br> 
-<a href="#"><b>Double Tabs Achievements 3</b></a><br> 
-<a href="#"><b>Double Tabs Achievements 3</b></a><br>  
+<b>Double Tabs Achievements 2</b><br>
+<b>Double Tabs Achievements 3</b><br> 
+<b>Double Tabs Achievements 3</b><br> 
+<b>Double Tabs Achievements 3</b><br>  
 </td>
 </tr>
 </table>
+</div>
+
+## Others
+
+<div>
+<div class="col-md-2">
+<h5>Skills</h5>
+</div>
+<div class="col-md-10">
+<ul style="line-height: 2rem">
+<li>C++ (OpenCV, OpenGL, CUDA, Eigen, PCL, Qt, ...)</li>
+<li>Python (Tensorflow/PyTorch)</li>
+<li>Matlab, C#</li>
+<li>LaTex</li>
+</ul>
+<h5>Languages</h5>
+</div>
+<div class="col-md-10">
+<ul style="line-height: 2rem">
+<li>Chinese (native)</li>
+<li>English (TOEFL: 104; GRE: 148+168+4.0)</li>
+</ul>
+</div>
+</div>
+
+## Contact
+
+<div>
+<div class="col-md-2">
+Email: jomidoku@umich.edu<br>
+Phone: 313
+</div>
 </div>

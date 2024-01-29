@@ -181,7 +181,7 @@ Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu, Yebin Liu<br>
 
 <div>
 <div class="col-md-2">
-<h5>Skills</h5>
+<h4>Skills</h4>
 </div>
 <div class="col-md-10">
 <ul style="line-height: 2rem">
@@ -190,7 +190,7 @@ Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu, Yebin Liu<br>
 <li>Matlab, C#</li>
 <li>LaTex</li>
 </ul>
-<h5>Languages</h5>
+<h4>Languages</h4>
 </div>
 <div class="col-md-10">
 <ul style="line-height: 2rem">

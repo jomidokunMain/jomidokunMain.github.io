@@ -184,7 +184,7 @@ Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu, Yebin Liu<br>
 <h4>Skills</h4>
 </div>
 <div class="col-md-10">
-<ul style="line-height: 2rem; font-size: x-small;">
+<ul style="line-height: 2rem; font-size: smaller;">
 <li>C++ (OpenCV, OpenGL, CUDA, Eigen, PCL, Qt, ...)</li>
 <li>Python (Tensorflow/PyTorch)</li>
 <li>Matlab, C#</li>
@@ -193,7 +193,7 @@ Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu, Yebin Liu<br>
 <h4>Languages</h4>
 </div>
 <div class="col-md-10">
-<ul style="line-height: 2rem; font-size: large;">
+<ul style="line-height: 2rem; font-size: smaller;">
 <li>Chinese (native)</li>
 <li>English (TOEFL: 104; GRE: 148+168+4.0)</li>
 </ul>

@@ -52,7 +52,7 @@ Bachelor of Science in Engineering. Sep. 2015 - Jun. 2019<br>
 
 ## Research
 
-<div>
+<!-- <div>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
@@ -69,11 +69,11 @@ Bachelor of Science in Engineering. Sep. 2015 - Jun. 2019<br>
 </td>
 </tr>
 </table>
-</div>
+</div> -->
 
 ---
 
-<div>
+<!-- <div>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
@@ -88,11 +88,11 @@ Bachelor of Science in Engineering. Sep. 2015 - Jun. 2019<br>
 </td>
 </tr>
 </table>
-</div>
+</div> -->
 
 ---
 
-<div>
+<!-- <div>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
@@ -109,11 +109,11 @@ Bachelor of Science in Engineering. Sep. 2015 - Jun. 2019<br>
 </td>
 </tr>
 </table>
-</div>
+</div> -->
 
 ---
 
-<div>
+<!-- <div>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
@@ -129,11 +129,11 @@ Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu, Yebin Liu<br>
 </td>
 </tr>
 </table>
-</div>
+</div> -->
 
 ---
 
-<div>
+<!-- <div>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
@@ -150,7 +150,7 @@ Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu, Yebin Liu<br>
 </td>
 </tr>
 </table>
-</div>
+</div> -->
 
 ## Award
 

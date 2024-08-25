@@ -53,7 +53,7 @@ Bachelor of Science in Engineering. Sep. 2015 - Jun. 2019<br>
 
 <table style="border-collapse: collapse; border: none;">
   <tr  style="border-collapse: collapse; border: none;">
-    <td style="border-collapse: collapse; border: none;" ><img src="../images/leveragecontaless1.png" width="1080" height="223" alt="MeshAvatar Image"></td>
+    <td style="border-collapse: collapse; border: none;" ><img src="../images/leveragecontaless1.png" width="2080" height="250" alt="MeshAvatar Image"></td>
     <td style="border-collapse: collapse; border: none; font-size: 15px">
       <div align="center">
         <b>Leveraging Digital Perceptual Technologies for Remote Perception and Analysis of Human Biomechanical Processes: A Contactless Approach for Workload and Joint Force Assessment</b><br><i>J. Omidokun, D. Egeonu, B. Jia, L. Yang</i><br>2024<br>

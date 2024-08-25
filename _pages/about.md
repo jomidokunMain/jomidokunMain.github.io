@@ -55,13 +55,13 @@ Bachelor of Science in Engineering. Sep. 2015 - Jun. 2019<br>
 
 ## Others
 
-* [X] Skills
+[X] Skills
 
   * C++ (OpenCV, OpenGL, CUDA, Eigen, PCL, Qt, ...)
   * Python (Tensorflow/PyTorch)
   * Matlab, C
   * LaTex
-* [X] Languages
+[X] Languages
 
   * English (TOEFL: 104; GRE: 150+168+4.5)
   * French

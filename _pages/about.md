@@ -50,10 +50,11 @@ Bachelor of Science in Engineering. Sep. 2015 - Jun. 2019<br>
 </div>
 
 ## Research
+
 <table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td><img src="../images/leveragecontaless1.png" width="1080" height="223" alt="MeshAvatar Image"></td>
-    <td>
+  <tr  style="border-collapse: collapse; border: none;">
+    <td style="border-collapse: collapse; border: none;" ><img src="../images/leveragecontaless1.png" width="1080" height="223" alt="MeshAvatar Image"></td>
+    <td style="border-collapse: collapse; border: none;">
       <div align="center">
         <b>Leveraging Digital Perceptual Technologies for Remote Perception and Analysis of Human Biomechanical Processes: A Contactless Approach for Workload and Joint Force Assessment</b><br>
         <i>J. Omidokun, D. Egeonu, B. Jia, L. Yang</i><br>
@@ -69,18 +70,17 @@ Bachelor of Science in Engineering. Sep. 2015 - Jun. 2019<br>
   </tr>
 </table>
 
-
-
 ## Others
 
-[X] Skills
+### **Skills**
 
-  * C++ (OpenCV, OpenGL, CUDA, Eigen, PCL, Qt, ...)
-  * Python (Tensorflow/PyTorch)
-  * Matlab, C
-  * LaTex
-[X] Languages
+* C++ (OpenCV, OpenGL, CUDA, Eigen, PCL, Qt, ...)
+* Python (Tensorflow/PyTorch)
+* Matlab, C
+* LaTex
 
-  * English (TOEFL: 104; GRE: 150+168+4.5)
-  * French
-  * IELTS
+### **Languages**
+
+* English (TOEFL: 104; GRE: 150+168+4.5)
+* French
+* IELTS

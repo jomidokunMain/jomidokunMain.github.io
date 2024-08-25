@@ -51,7 +51,22 @@ Bachelor of Science in Engineering. Sep. 2015 - Jun. 2019<br>
 
 ## Research
 
-`<!-- ## Award -->`
+<table>
+  <tr>
+    <td><img src="../images/leveragecontaless.png" width="373" height="223" alt="MeshAvatar Image"></td>
+    <td>
+      <b>Leveraging Digital Perceptual Technologies for Remote Perception and Analysis of Human Biomechanical Processes: A Contactless Approach for Workload and Joint Force Assessment</b><br>
+      <i>J. Omidokun, D. Egeonu, B. Jia, L. Yang</i><br>
+       2024<br><br>
+      This study presents an innovative computer vision framework designed to analyze human movements in industrial settings, aiming to enhance biomechanical analysis by integrating seamlessly with existing software. Through a combination of advanced imaging and modeling techniques, the framework allows for comprehensive scrutiny of human motion, providing valuable insights into kinematic patterns and kinetic data......<br><br>
+      <a href="webpage-link">Webpage</a> |
+      <a href="paper-link">Paper</a> |
+      <a href="video-link">Video</a> |
+      <a href="code-link">Code</a> |
+      <a href="bibtex-link">Bibtex</a>
+    </td>
+  </tr>
+</table>
 
 ## Others
 

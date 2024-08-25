@@ -52,30 +52,30 @@ Bachelor of Science in Engineering. Sep. 2015 - Jun. 2019<br>
 
 ## Research
 
-## Award
+<!-- ## Award -->
 
-<div>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
-<tr>
-<td style="padding:10px;width:25%;vertical-align:middle;border:none" align="center">2022
-</td>
-<td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
-<b>Double Tabs Achievements 1</b>
-</td>
-</tr>
-<tr>
-<td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
-2023
-</td>
-<td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
-<b>Double Tabs Achievements 2</b><br>
-<b>Double Tabs Achievements 3</b><br> 
-<b>Double Tabs Achievements 3</b><br> 
-<b>Double Tabs Achievements 3</b><br>  
-</td>
-</tr>
-</table>
-</div>
+<!-- <div>
+  <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+  <tr>
+  <td style="padding:10px;width:25%;vertical-align:middle;border:none" align="center">2022
+  </td>
+  <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
+  <b>Double Tabs Achievements 1</b>
+  </td>
+  </tr>
+  <tr>
+  <td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
+  2023
+  </td>
+  <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
+  <b>Double Tabs Achievements 2</b><br>
+  <b>Double Tabs Achievements 3</b><br> 
+  <b>Double Tabs Achievements 3</b><br> 
+  <b>Double Tabs Achievements 3</b><br>  
+  </td>
+  </tr>
+  </table>
+</div> -->
 
 ## Others
 

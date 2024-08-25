@@ -52,7 +52,7 @@ Bachelor of Science in Engineering. Sep. 2015 - Jun. 2019<br>
 ## Research
 <table>
   <tr>
-    <td><img src="../images/leveragecontaless1.png" width="373" height="223" alt="MeshAvatar Image"></td>
+    <td><img src="../images/leveragecontaless1.png" width="1080" height="223" alt="MeshAvatar Image"></td>
     <td>
       <div align="center">
         <b>Leveraging Digital Perceptual Technologies for Remote Perception and Analysis of Human Biomechanical Processes: A Contactless Approach for Workload and Joint Force Assessment</b><br>

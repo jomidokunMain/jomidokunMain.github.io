@@ -50,7 +50,7 @@ Bachelor of Science in Engineering. Sep. 2015 - Jun. 2019<br>
 </div>
 
 ## Research
-<table>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
   <tr>
     <td><img src="../images/leveragecontaless1.png" width="1080" height="223" alt="MeshAvatar Image"></td>
     <td>

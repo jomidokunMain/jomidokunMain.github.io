@@ -80,10 +80,10 @@ analytics:
 author:
   name: "Jesudara Omidokun(Dara)"
   avatar: "JO.jpeg"
-  bio: "Ph.D. student at University of Michigan-Dearborn"
+  bio: "Graduate student at University of Michigan-Dearborn"
   location: "Dearborn, USA"
   employer:
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=jesudara+omidokun"
   googlescholar: "https://scholar.google.com/citations?hl=en&user=Nl5sQbEAAAAJ"
   email: "jomidoku@umich.edu"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
@@ -112,7 +112,8 @@ author:
   xing:
   youtube:
   wikipedia:
-  resume_EN: http://jomidokunMain.github.io/files/Jomidokun_resume.pdf
+  # resume_EN: http://jomidokunMain.github.io/files/Jomidokun_resume.pdf
+  resume_EN: http://jomidokunMain.github.io/files/JesudaraResume.pdf
   resume_ZH: #http://jomidokunMain.github.io/files/Zhe_Li_Resume.pdf
 
 # Reading Files

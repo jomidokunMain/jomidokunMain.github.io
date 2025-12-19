@@ -105,7 +105,7 @@ Bachelor of Science in Engineering. Sep. 2015 - Jun. 2019<br>
 
 <table style="border-collapse: collapse; border: none;">
   <tr  style="border-collapse: collapse; border: none;">
-    <td style="border-collapse: collapse; border: none;" ><img src="../images/mrover.jpg" width="2080" height="250" alt="MeshAvatar Image"></td>
+    <td style="border-collapse: collapse; border: none;" ><img src="../images/webmix.mp4" width="2080" height="250" alt="MeshAvatar Image"></td>
     <td style="border-collapse: collapse; border: none; font-size: 15px">
       <div align="center">
         <b>Field-Applicable Ground Reaction Force Estimation Through Deep Learning: Enhancing Biomechanical and Ergonomic Assessments</b><br><i> <strong>J. Omidokun</strong></i><br>2022<br>

@@ -16,7 +16,7 @@ My work sits at the intersection of **Human Factors**, **Artificial Intelligence
 
 My long-term goal is to develop **human-centered intelligent systems** that can understand human behavior, adapt to user needs, and support safer interaction with technologies such as automated vehicles, human-machine interfaces, wearable systems, and digital human models.
 
-I also value **research mentorship and collaboration** across human factors, intelligent transportation, simulation, ergonomics, and applied AI. As my research network grows, I plan to use this space to highlight additional mentors, collaborators, and interdisciplinary projects.
+<!-- I also value **research mentorship and collaboration** across human factors, intelligent transportation, simulation, ergonomics, and applied AI. As my research network grows, I plan to use this space to highlight additional mentors, collaborators, and interdisciplinary projects. -->
 
 **Current research focus:** Human Digital Twins and adaptive transparency for automated vehicle interaction.
 

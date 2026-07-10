@@ -28,6 +28,9 @@ main:
   - title: "Projects"
     url: "/#featured-projects"
 
+  - title: "Portfolio"
+    url: "/portfolio/"
+
   - title: "Teaching"
     url: "/#teaching-and-mentoring"
 

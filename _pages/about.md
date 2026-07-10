@@ -10,11 +10,13 @@ redirect_from:
 
 # Human-Centered AI for Intelligent Transportation and Ergonomics
 
-Hello, I'm **Jesudara Omidokun** — you can call me **Dara**. I am a Ph.D. student in **Industrial and Manufacturing Systems Engineering** at the **University of Michigan–Dearborn**, advised by Professor **Bochen Jia**.
+Hello, I'm **Jesudara Omidokun** — you can call me **Dara**. I am a Ph.D. student in **Industrial and Manufacturing Systems Engineering** at the **University of Michigan–Dearborn**, advised by Professor [**Bochen Jia**](https://experts.umich.edu/5456-bochen-jia/about) and Professor [**Areen Alsaid**](https://setlab.framer.website/).
 
-My work focuses on how people interact with intelligent technologies. I combine **human factors engineering**, **machine learning**, **computer vision**, **statistical modeling**, and **physiological/behavioral sensing** to study trust, safety, workload, and user experience in automated and data-driven systems.
+My work sits at the intersection of **Human Factors**, **Artificial Intelligence**, **Ergonomics**, and **Intelligent Transportation Systems**. I study how people interact with automated and intelligent systems, with a focus on trust, driver behavior, physiological sensing, adaptive interfaces, and data-driven human modeling.
 
 My long-term goal is to develop **human-centered intelligent systems** that can understand human behavior, adapt to user needs, and support safer interaction with technologies such as automated vehicles, human-machine interfaces, wearable systems, and digital human models.
+
+I also value **research mentorship and collaboration** across human factors, intelligent transportation, simulation, ergonomics, and applied AI. As my research network grows, I plan to use this space to highlight additional mentors, collaborators, and interdisciplinary projects.
 
 **Current research focus:** Human Digital Twins and adaptive transparency for automated vehicle interaction.
 
@@ -107,6 +109,20 @@ I am currently working on several connected research and professional-developmen
 **Methods.** Python/MATLAB data processing, gaze analysis, vehicle-signal analysis, statistical modeling, visualization, and human factors interpretation.
 
 **Status.** Active research analysis pipeline.
+
+---
+
+### CARLA Simulator for Automated Driving Scenario Design
+
+**Problem.** Automated driving research often requires safe, repeatable, and controllable environments for testing vehicle behavior, sensors, traffic conditions, and human-centered scenarios.
+
+**Approach.** I use the **CARLA simulator** with **Unreal Engine 4/5** to design automated driving scenarios, configure simulated sensors, and develop tutorial workflows for transportation and human factors research.
+
+**Methods.** CARLA Python API, ScenarioRunner, Unreal Engine, sensor simulation, traffic manager configuration, OpenDRIVE/OpenSCENARIO concepts, and scenario-based evaluation.
+
+**Status.** Ongoing technical portfolio and tutorial-development effort.
+
+[View project](/portfolio/carla-simulation/) | [CARLA tutorials](/resources/carla/)
 
 ---
 

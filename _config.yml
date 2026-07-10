@@ -7,11 +7,11 @@
 
 # Site Settings
 locale: "en-US"
-title: "Jesudara Omidokun(Dara)'s Homepage"
+title: "Jesudara Omidokun | Human-Centered AI & Intelligent Transportation"
 title_separator: "-"
-name: &name "Jesudara Omidokun (Dara)'s"
-description: &description "personal description"
-url: https://jomidokunMain.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name: &name "Jesudara Omidokun"
+description: &description "Ph.D. researcher in Human-Centered AI, Human Factors, Automated Driving, Ergonomics, and Data-Driven Intelligent Systems."
+url: "https://jomidokunmain.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "jomidokunMain/jomidokunMain.github.io"
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name: "Jesudara Omidokun(Dara)"
+  name: "Jesudara Omidokun (Dara)"
   avatar: "JO.jpeg"
-  bio: "Graduate student at University of Michigan-Dearborn"
+  bio: "Ph.D. researcher in Human-Centered AI, Human Factors, Automated Driving, and Ergonomics"
   location: "Dearborn, USA"
   employer:
   pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=jesudara+omidokun"
@@ -249,7 +249,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Detroit # local timezone for Dearborn, Michigan
 
 # Plugins
 plugins:

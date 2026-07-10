@@ -1,14 +1,38 @@
+# # main links links
+# main:
+#   - title: "Bio"
+#     url: "https://jomidokunmain.github.io/#background"
+
+#   - title: "Research"
+#     url: "https://jomidokunmain.github.io/#research"
+
+#   - title: "Experience"
+#     url: "https://jomidokunmain.github.io/#experience"
+
+#   - title: "Projects"
+#     url: "https://jomidokunmain.github.io/#projects"
+
 # main links links
+# Phase 1 navigation for a homepage-centered research platform.
+# These URLs point to section anchors in about.md.
 main:
-  - title: "Bio"
-    url: "https://jomidokunmain.github.io/#background"
+  - title: "Home"
+    url: "/"
 
   - title: "Research"
-    url: "https://jomidokunmain.github.io/#research"
+    url: "/#research-themes"
 
-  - title: "Experience"
-    url: "https://jomidokunmain.github.io/#experience"
+  - title: "Current Work"
+    url: "/#current-work"
 
   - title: "Projects"
-    url: "https://jomidokunmain.github.io/#projects"
+    url: "/#featured-projects"
 
+  - title: "Teaching"
+    url: "/#teaching-and-mentoring"
+
+  - title: "Experience"
+    url: "/#experience"
+
+  - title: "Contact"
+    url: "/#contact"
